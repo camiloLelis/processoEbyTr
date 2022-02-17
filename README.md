@@ -54,6 +54,7 @@
 
 ## começar backend:
 ```
+criar o banco'ebytr' no mongo
 npm install
 npm start
 ```
